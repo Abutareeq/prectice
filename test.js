@@ -19,3 +19,7 @@ for (var i=0; i<n;i++){
     }
 }
 console.log(arr)
+
+
+var a = 8
+var b = 6
